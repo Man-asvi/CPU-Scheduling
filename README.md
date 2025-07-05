@@ -1,7 +1,6 @@
 # 🖥️ CPU Scheduling Simulator 🔄  
 _Simulates and compares common CPU scheduling algorithms using Java_
 
-![License](https://img.shields.io/badge/license-MIT-green)
 ![Language](https://img.shields.io/badge/Language-Java-blue)
 ![Focus](https://img.shields.io/badge/Topic-Operating%20Systems-orange)
 
